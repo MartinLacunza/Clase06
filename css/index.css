@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.header{
+    background: aquamarine;
+    color: white;
+    height: 80px;
+    margin-bottom: 18px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo a {
+    text-transform: uppercase;
+}
+.logo{
+    color: white;
+    text-decoration: none;
+}
