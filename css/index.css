@@ -48,5 +48,44 @@ html{
     .navbar ul li a:hover{
         background: white;
         color: rgb(13, 6, 118);
-    
     }
+    . banner-top{ 
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    #contenedor{ 
+        width: 90%;
+        margin: 0, auto;
+        display: flex;
+        justify-content: space-around;
+    }
+#contenedor img{
+    width: 100%;
+}
+.primero{
+    padding: 2%
+    }
+.segundo{
+    padding: 2%;
+}
+.tercero{
+    padding: 2%
+}
+.footer{
+    margin-top: 25px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+}
+.data{
+    background: rgb(15, 138, 154);
+    color: black;
+    list-style: none;
+    margin-top: 10px;
+}
+.map{
+    width: 60%;
+    margin-top: 10px;
+    border: solid black;
+}
