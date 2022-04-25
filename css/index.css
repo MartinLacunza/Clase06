@@ -89,3 +89,14 @@ html{
     margin-top: 10px;
     border: solid black;
 }
+@media screen and (min-width: 660px) and (max-width:989)
+{
+    .body{
+        background: yellow;}
+    }
+
+@media screen and (min-width: 990px) and (max-width: 1900px)
+{
+    .body{
+        background: rgb(42, 170, 221);}
+    }
